@@ -1,7 +1,7 @@
 pip>=19.3
 pandas>=0.23
 wheel>=0.33.6
-twine==2.0.0
+twine==6.0.0
 bump2version==0.5.11
 flake8==3.7.9
 sphinx==2.2.1
